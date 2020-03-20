@@ -1,13 +1,7 @@
-# info7374-team5
+# Database Management and Database Design
 
-This repository contains Assignments and Final Project for **INFO7374 - Digital Marketing Analytics**.
+This repository contains Final Project for **Apartment Leasing Process Optimization**.
 
-**Assignment1**   - Marketing Analysis
-
-**Assignment2**   - Part1 --> Blog Review (4 Blogs - Marketing use cases)
-                    Part2 --> Prototype the four themes
-           
-**Assignment3**   - Using Machine Learning for 3-marketing related use cases
-
-**Final Project** - Marketing Promotion strategy and Sales Forecasting
+1. Designed a normalized Entity Relationship model and wrote MySQL scripts to generate 15 database tables and relationships 
+2. Implemented user privileges, views, triggers, stored procedures, transactions and events and speed up leasing process by 30%
               
